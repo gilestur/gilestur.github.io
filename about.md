@@ -80,52 +80,16 @@
     
         </header>
         
-
 <div class="main clearfix">
-    <section class="container" id="posts">
-        
-        <div class="left-container">
-      					<article class="list clearfix">
-          					<h3><a href = "/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></h3>
-         					<span class="by">Posted on 27 May 2014.</span>
-        					<p><p>Look closely, and you'll notice this is simply a test. Nothing more. </p>
-</p>
-        
-        
-    						<div class="socialbar">
-		                    <div class="clearfix"></div>
-			                    <ul>
-			                        <li>
-			                        <i class="icon-tag-1"></i>
-			                          <span>category1,, </span>
-<span>category2</span>
-
-			                        </li>
-			                        <li><i class="icon-comment"></i> <span>
-                                        
-		                                
-                                            
-                                    </span></li>
-			                        <li class="push-right">
-			                            
-                                        
-                                        
-			                        </li>
-			                    </ul>
-                			</div>    
-      					</article>
-
-
-	      	<div class="socialbar">
-	            <div class="clearfix"></div>
-	                <ul>
-	                	
-	                    
-	                </ul>
-	            </div>
-	        </div>  
-	        
-
+	<section class="container" id="posts">
+		<div class="left-container">
+	  		<article class="list clearfix">
+	  			<h3></h3>
+				<p><p>Here goes the about content.</p>
+</p>    
+	  		</article>
+		</div>
+			
 
 <div class="right-container">
           <div class="right-col">
