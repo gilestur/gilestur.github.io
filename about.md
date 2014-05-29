@@ -6,17 +6,17 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title>Test blog</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="/theme/css/normalize.css">
-        <link rel="stylesheet" href="/theme/css/main.css">
-        <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon"/>
-        <script src="/theme/js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="/theme/js/jquery.min.js"></script>
+        <link rel="stylesheet" href="<null>/theme/css/normalize.css">
+        <link rel="stylesheet" href="<null>/theme/css/main.css">
+        <link rel="shortcut icon" href="<null>/theme/favicon.ico" type="image/x-icon"/>
+        <script src="<null>/theme/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="<null>/theme/js/jquery.min.js"></script>
 
        <style>
         a
@@ -65,15 +65,15 @@
         <section class="container">
         <a href="">
           <div width="256" height="94">
-            <h2>  </h2>
-            <h4>  </h4>
+            <h2> Test blog </h2>
+            <h4> About testing </h4>
           </div>
         </a>
         <nav>
         <ul>
-        <li><a href="/index.html"> <i class="icon-home-1"></i></a></li>
-        <li><a href="/about.html"><i class="icon-info-circled"></i></a></li>
-        <li><a href="/atom.xml"><i class="icon-rss"></i></a></li>
+        <li><a href="<null>/index.html"> <i class="icon-home-1"></i></a></li>
+        <li><a href="<null>/about.html"><i class="icon-info-circled"></i></a></li>
+        <li><a href="<null>/atom.xml"><i class="icon-rss"></i></a></li>
         </ul>
         </nav>
       </section>
@@ -107,7 +107,7 @@
                 <li>
                   <span class="icon-right-dir"><i>2014</i></span>
                 <ul>
-                <li><a href="/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
+                <li><a href="<null>/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
 
           </ul>
          </div>
@@ -120,14 +120,14 @@
             <li>
                     <span class="icon-right-dir"><i>category1,</i></span>
                   <ul>
-                  <li><a href="/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
+                  <li><a href="<null>/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
                 </ul>
                   </li>
 
 <li>
                     <span class="icon-right-dir"><i>category2</i></span>
                   <ul>
-                  <li><a href="/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
+                  <li><a href="<null>/2014/05/27/This-post-is-made-of-test.html">This post is made of test</a></li>
                 </ul>
                   </li>
 
@@ -152,14 +152,24 @@
 
 
 
-        <script src="/theme/js/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="/theme/js/plugins.js"></script>
-        <script src="/theme/js/main.js"></script>
+        <script src="<null>/theme/js/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="<null>/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="<null>/theme/js/plugins.js"></script>
+        <script src="<null>/theme/js/main.js"></script>
 
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        
+          <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
         
 
           <script type="text/javascript">

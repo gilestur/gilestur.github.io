@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/"/>
-  <updated>2014-05-27T19:54:57+01:00</updated>
-  <id>/</id>
+  <title><![CDATA[Test blog]]></title>
+  <link href="<null>/atom.xml" rel="self"/>
+  <link href="<null>/"/>
+  <updated>2014-05-29T13:12:44+01:00</updated>
+  <id><null>/</id>
   <author>
     <name><![CDATA[]]></name>
-    <email><![CDATA[]]></email>
+    <email><![CDATA[giles@gilest.org]]></email>
   </author>
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
   <entry>
     <title type="html"><![CDATA[This post is made of test]]></title>
-    <link href="/2014/05/27/This-post-is-made-of-test.html"/>
-    <updated>2014-05-27T18:55:16+00:00</updated>
-    <id>/2014/05/27/This-post-is-made-of-test.html</id>
+    <link href="<null>/2014/05/27/This-post-is-made-of-test.html"/>
+    <updated>2014-05-29T12:11:52+00:00</updated>
+    <id><null>/2014/05/27/This-post-is-made-of-test.html</id>
     <content type="html"><![CDATA[<p>Look closely, and you'll notice this is simply a test. Nothing more. </p>
 <p>Praesent bibendum commodo lorem ornare porta. Integer eu tellus mattis, bibendum ligula et, sodales dui. Proin nec mollis tortor. Phasellus vitae velit porttitor, accumsan leo et, aliquet augue. Pellentesque consectetur ante at tempor condimentum. Integer enim felis, egestas sit amet magna quis, aliquet feugiat erat. Aenean dignissim sapien nibh, sit amet aliquet justo iaculis eu. Sed vel lorem id erat sollicitudin gravida sit amet eget quam. Ut a sollicitudin nulla. Maecenas pharetra bibendum tempus. Duis semper vehicula est vel ullamcorper. Nam non felis ipsum. Cras molestie enim non nulla fermentum mollis. Curabitur mattis magna a nibh posuere, non gravida mauris ultrices. Aenean sodales neque in mauris luctus, sed sollicitudin augue lacinia. Nam viverra nunc et eros tristique, quis semper purus pretium.</p>
 <p>Thank you. </p>
