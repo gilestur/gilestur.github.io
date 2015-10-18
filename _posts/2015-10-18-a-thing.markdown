@@ -1,0 +1,8 @@
+---
+published: true
+title: A thing
+layout: post
+---
+This is a thing. It looks like a thing. It works like a thing.
+
+*It must be a thing.*
